@@ -1,0 +1,12 @@
+# Outputs / runtime
+episodes/
+
+# HF cache should never be committed
+.cache/
+**/.cache/
+**/__pycache__/
+*.pyc
+
+# Optional: keep only your one reference wav tracked, ignore others
+# *.wav
+

@@ -1,0 +1,7 @@
+episodes/
+sermons/
+.git/
+**/__pycache__/
+*.pyc
+.cache/
+
